@@ -99,4 +99,4 @@ Every Item of the Activity feed should contain:
         
     *  **Mark as read**: If the notification has not been read, another action button will be displayed. This button will mark as “Read” the notification.
       
-      ![icon 3](	/assets/icons/3.png)
+      ![icon 3](/assets/icons/3.png)
