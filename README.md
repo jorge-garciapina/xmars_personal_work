@@ -100,3 +100,17 @@ Every Item of the Activity feed should contain:
     *  **Mark as read**: If the notification has not been read, another action button will be displayed. This button will mark as “Read” the notification.
       
       ![icon 3](/assets/icons/3.png)
+
+      ![image 24](	/assets/24.png)
+ 	
+    *  In Reactions notifications, when hovering over the name of the user that reacted, a “peek” is displayed with the user information and a button to message the user and a selector with the option to start a Huddle and another to copy the Huddle link.
+      ![image 25](	/assets/25.png)
+ 
+      ![image 26](	/assets/26.png)
+      
+    *  In Reactions notifications, when hovering over the name of the user that reacted, a “peek” is displayed with the user information and a button to message the user and a selector with the option to start a Huddle and another to copy the Huddle link.
+ 
+      ![icon 4](/assets/icons/4.png)
+
+      ![image 27](	/assets/27.png)
+  
